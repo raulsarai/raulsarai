@@ -28,13 +28,7 @@
   
   <img align="center" alt="Raul-git" height="90" width="300" src="https://github.com/bumptech/glide/raw/master/static/glide_logo.png">
   <img align="center" alt="Raul-git" height="90" width="300" src="https://coil-kt.github.io/coil/logo.svg">
-  <img align="center" alt="Raul-git" height="90" width="120" src="https://sdtimes.com/wp-content/uploads/2016/05/0517.sdt-gradle.png">
-       
-  
-  
- 
 
-  
   ##
   
   <div> 
