@@ -1,4 +1,4 @@
-### Oi! Eu sou o Raul! 👋
+### Oi, Eu sou o Raul! 👋
 
 
 <div align="center">
