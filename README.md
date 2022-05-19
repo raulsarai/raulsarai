@@ -19,8 +19,21 @@
   <img align="center" alt="Raul-java" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   
   <img align="center" alt="Raul-git" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+  
+  </div>
+  
+   ##
+  
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="Raul-git" height="90" width="300" src="https://github.com/bumptech/glide/raw/master/static/glide_logo.png">
+  <img align="center" alt="Raul-git" height="90" width="300" src="https://coil-kt.github.io/coil/logo.svg">
+  <img align="center" alt="Raul-git" height="90" width="120" src="https://sdtimes.com/wp-content/uploads/2016/05/0517.sdt-gradle.png">
+       
+  
+  
  
-</div>
+
   
   ##
   
