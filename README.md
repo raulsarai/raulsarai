@@ -18,7 +18,7 @@
   
   <img align="center" alt="Raul-java" height="100" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   
-  <img align="center" alt="Raul-git" height="130" width="180" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+  <img align="center" alt="Raul-git" height="100" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
  
 </div>
   
