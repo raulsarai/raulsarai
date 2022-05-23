@@ -10,15 +10,15 @@
   ##
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Raul-Android" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
+  <img align="center" alt="Raul-Android" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
   
-  <img align="center" alt="Raul-AS" height="150" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain-wordmark.svg">
+  <img align="center" alt="Raul-AS" height="75" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain-wordmark.svg">
   
-  <img align="center" alt="Raul-kotlin" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg">
+  <img align="center" alt="Raul-kotlin" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg">
   
-  <img align="center" alt="Raul-java" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Raul-java" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   
-  <img align="center" alt="Raul-git" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+  <img align="center" alt="Raul-git" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
   
   </div>
   
