@@ -10,24 +10,36 @@
   ##
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Raul-Android" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
   
-  <img align="center" alt="Raul-AS" height="75" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain-wordmark.svg">
+  <img align="center" alt="kotlin" height="75" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg">
   
-  <img align="center" alt="Raul-kotlin" height="75" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg">
+  <img align="center" alt="java" height="60" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   
-  <img align="center" alt="Raul-java" height="75" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="dart" height="75" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />
   
-  <img align="center" alt="Raul-git" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+  <img align="center" alt="flutter" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+ 
   
   </div>
   
    ##
   
+  <div style="display: inline_block"><br>
+  
+  <img align="center" alt="Android" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
+  
+  <img align="center" alt="AS" height="75" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain-wordmark.svg">
+    
+  <img align="center" alt="git" height="60" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+
+  ##
+  
+  <div> 
+  
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Raul-git" height="75" width="100" src="https://github.com/bumptech/glide/raw/master/static/glide_logo.png">
-  <img align="center" alt="Raul-git" height="75" width="100" src="https://coil-kt.github.io/coil/logo.svg">
+  <img align="center" alt="glide" height="70" width="210" src="https://github.com/bumptech/glide/raw/master/static/glide_logo.png">
+  <img align="center" alt="coil" height="50" width="100" src="https://coil-kt.github.io/coil/logo.svg">
 
   ##
   
