@@ -31,6 +31,8 @@
   <img align="center" alt="AS" height="75" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain-wordmark.svg">
     
   <img align="center" alt="git" height="60" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+    
+   <img align="center" alt="git" height="60" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
 
   ##
   
