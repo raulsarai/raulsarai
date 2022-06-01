@@ -1,5 +1,5 @@
 ### Oi, Eu sou o Raul! 👋
-
+#### Bem vindo ao meu portifólio 😃
 
 <div align="center">
   <a href="https://github.com/raulsarai">
@@ -8,8 +8,9 @@
 </div>
   
   ##
-  
+  ## Linguagens:
 <div style="display: inline_block"><br>
+  
   
   <img align="center" alt="kotlin" height="75" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg">
   
@@ -24,6 +25,8 @@
   
    ##
   
+  ## Ferramentas:
+  
   <div style="display: inline_block"><br>
   
   <img align="center" alt="Android" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
@@ -35,6 +38,8 @@
    <img align="center" alt="git" height="60" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
 
   ##
+    
+## Bibliotecas:
   
   <div> 
   
